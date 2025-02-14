@@ -1,1 +1,1 @@
-adding a new file where you can add some text about the project or some description.
+Trying to do a Pull Request, it's my first time so i'm gonna say hello!! 🗣️🗣️
